@@ -31,6 +31,10 @@ https://platform.openai.com/settings/organization/billing/overview
 
 （註冊後可用）（avalable after register）
 
+執行結果範例請見sample_result.png
+
+Please see the sample result in sample_result.png
+
 --------------------
 
 E_text.csv
